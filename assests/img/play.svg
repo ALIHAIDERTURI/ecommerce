@@ -1,0 +1,42 @@
+<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="16" height="16" fill="#E5E5E5"/>
+<g id="Video Details" clip-path="url(#clip0_0_1)">
+<rect width="1439" height="3170" transform="translate(-57 -332)" fill="white"/>
+<g id="main">
+<g id="sidbar">
+<g id="course category">
+<g id="Frame 188">
+<g id="Frame 112" clip-path="url(#clip1_0_1)">
+<g id="Frame 48095545">
+<g id="Frame 48095544">
+<g id="Frame 48095543">
+<g id="remove_from_queue">
+<mask id="mask0_0_1" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="16" height="16">
+<rect id="Bounding box" width="16" height="16" fill="#D9D9D9"/>
+</mask>
+<g mask="url(#mask0_0_1)">
+<g id="remove_from_queue_2">
+<path d="M6.00016 14C5.81127 14 5.65305 13.936 5.5255 13.808C5.3975 13.6804 5.3335 13.5222 5.3335 13.3333V12.6667H2.66683C2.30016 12.6667 1.98638 12.5362 1.7255 12.2753C1.46416 12.014 1.3335 11.7 1.3335 11.3333V3.33333C1.3335 2.96667 1.46416 2.65267 1.7255 2.39133C1.98638 2.13044 2.30016 2 2.66683 2H13.3335C13.7002 2 14.0142 2.13044 14.2755 2.39133C14.5364 2.65267 14.6668 2.96667 14.6668 3.33333V11.3333C14.6668 11.7 14.5364 12.014 14.2755 12.2753C14.0142 12.5362 13.7002 12.6667 13.3335 12.6667H10.6668V13.3333C10.6668 13.5222 10.6031 13.6804 10.4755 13.808C10.3475 13.936 10.1891 14 10.0002 14H6.00016ZM2.66683 11.3333H13.3335V3.33333H2.66683V11.3333Z" fill="#800080"/>
+<path d="M6.35883 8.95017V5.38351C6.35883 5.11684 6.4755 4.9224 6.70883 4.80017C6.94216 4.67795 7.16994 4.68906 7.39216 4.83351L10.1588 6.60017C10.3699 6.7224 10.4755 6.91128 10.4755 7.16684C10.4755 7.4224 10.3699 7.61129 10.1588 7.73351L7.39216 9.50017C7.16994 9.64462 6.94216 9.65573 6.70883 9.53351C6.4755 9.41128 6.35883 9.21684 6.35883 8.95017Z" fill="#800080"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<rect x="-41.5" y="-75.5" width="458" height="579" rx="6.5" stroke="#FFC0CB"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_0_1">
+<rect width="1439" height="3170" fill="white" transform="translate(-57 -332)"/>
+</clipPath>
+<clipPath id="clip1_0_1">
+<rect width="439" height="486" fill="white" transform="translate(-32 -2)"/>
+</clipPath>
+</defs>
+</svg>
